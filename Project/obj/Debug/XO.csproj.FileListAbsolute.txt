@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Project\obj\Debug\XO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\obj\Debug\XO.Form1.resources
+C:\Users\User\Desktop\Project\obj\Debug\XO.Form1.ar.resources
+C:\Users\User\Desktop\Project\obj\Debug\XO.csproj.GenerateResource.cache
